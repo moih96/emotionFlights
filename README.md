@@ -23,7 +23,7 @@ Francisco David Villacres Cuadrado
 
 Renato Flores Álvarez
 
-**Resumen** : Somos una comunidad internacional donde conectamos con personas de todo el mundo para intercambiar cultura basándose en las sensaciones de cada ciudad.
+**Resumen** : Somos una comunidad internacional donde conectamos con personas de todo el mundo para intercambiar cultura basándose en las sensaciones de cada lugar.
 Esta comunidad está formada por personas internacionales , innovadores y entusiastas. Contamos con asesoría profesional y las mejores ofertas especializadas en paquetes turísticos, billetes de avión, seguros de viaje y alojamiento. Te ofrecemos servicios de turismo adaptados a tus necesidades a precios económicos, ya que somos conscientes de la situación actual. Poseemos la experiencia y el impulso para brindarle el mejor de nuestros servicios. Contacténos para disfrutar unas agradables vacaciones o bonitas escapadas.
 
 **Logotipo** :  ![Logotipo (1) (1)](https://user-images.githubusercontent.com/100152126/155003160-ba476977-ad7b-4ccc-aca5-c34bf13ee0e7.png)
@@ -135,6 +135,9 @@ Referencias y recursos:
 * Propuestas de mejora
 
 (...)
+---
+### Nuestra promoción:
+![poster](https://user-images.githubusercontent.com/100152126/155022744-9b027928-c2f8-4c07-8e3c-f3693fa38773.jpeg)
 
 ---
 ### Colabora con nosotros
