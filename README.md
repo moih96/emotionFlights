@@ -6,25 +6,24 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
+![Cabecera (1) (1)](https://user-images.githubusercontent.com/100152126/155001729-80f10e82-9d8d-4ab6-9a42-952c0f50903f.gif)
+
+
 **Titulo** : Emotion Flights
 
 **Autor(es)** :
 Moisés Heredia Molina, 
 Soraya Olimpia López Criado, 
 Francisco David Villacres Cuadrado, 
-Renato Flores Álvarez, 
+Renato Flores Álvarez.
 
-**Resumen** : _________
+**Resumen** : Somos una agencia de viajes empresa formada por personas internacionales , innovadores y entusiastas. Contamos con asesoría profesional y las mejores ofertas especializadas en paquetes turísticos, billetes de avión, seguros de viaje y alojamiento. Te ofrecemos servicios de turismo adaptados a tus necesidades a precios económicos, ya que somos conscientes de la situación actual. Poseemos la experiencia y el impulso para brindarle el mejor de nuestros servicios. Contacténos para disfrutar unas agradables vacaciones o bonitas escapadas.
 
-**logotipo** :  ________
-
-**Slogan** (frase motivadora/inspiradora): ________
-
-**Hashtag**  ___
-
+**Logotipo** :  ![Logotipo (1) (1)](https://user-images.githubusercontent.com/100152126/155003160-ba476977-ad7b-4ccc-aca5-c34bf13ee0e7.png)
+**Slogan** (frase motivadora/inspiradora): La única regla del viaje es: no vuelvas como te fuiste. Vuelve diferente
+**Hashtag**  #viajes #emociones #bienestar 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
-
-**Fecha** : 2021
+**Fecha** : Febrero 2022
 
 **Medios** (donde se tiene presencia): 
 
