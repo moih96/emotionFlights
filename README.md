@@ -32,7 +32,8 @@ Esta comunidad está formada por personas internacionales , innovadores y entusi
 
 **Hashtag** : #viajes #emociones #bienestar #comunidad #cultura #empatia #compartir 
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia:**  ![byncsa (1)](https://user-images.githubusercontent.com/100152126/155021658-c58f934f-a908-45b3-be94-b33a5406b6cd.png)
+ (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : Febrero 2022
 
