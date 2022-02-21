@@ -1,7 +1,9 @@
 ## EMOTION FLIGHTS  
 
 Proyecto de Inteligencia Colectiva y Formación en la Empresa 
+
 [Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
+
 ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada  
 
 ----
@@ -11,18 +13,22 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Titulo** : Emotion Flights
 
-**Autor(es)** :
-Moisés Heredia Molina, 
-Soraya Olimpia López Criado, 
-Francisco David Villacres Cuadrado, 
-Renato Flores Álvarez.
+**Autores** :
+
+Moisés Heredia Molina
+
+Soraya Olimpia López Criado
+
+Francisco David Villacres Cuadrado
+
+Renato Flores Álvarez
 
 **Resumen** : Somos una comunidad internacional donde conectamos con personas de todo el mundo para intercambiar cultura basándose en las sensaciones de cada ciudad.
 Esta comunidad está formada por personas internacionales , innovadores y entusiastas. Contamos con asesoría profesional y las mejores ofertas especializadas en paquetes turísticos, billetes de avión, seguros de viaje y alojamiento. Te ofrecemos servicios de turismo adaptados a tus necesidades a precios económicos, ya que somos conscientes de la situación actual. Poseemos la experiencia y el impulso para brindarle el mejor de nuestros servicios. Contacténos para disfrutar unas agradables vacaciones o bonitas escapadas.
 
 **Logotipo** :  ![Logotipo (1) (1)](https://user-images.githubusercontent.com/100152126/155003160-ba476977-ad7b-4ccc-aca5-c34bf13ee0e7.png)
 
-**Slogan** (frase motivadora/inspiradora): La única regla del viaje es: no vuelvas como te fuiste. Vuelve diferente
+**Slogan** : La única regla del viaje es: no vuelvas como te fuiste. Vuelve diferente
 
 **Hashtag**  #viajes #emociones #bienestar 
 
@@ -30,7 +36,7 @@ Esta comunidad está formada por personas internacionales , innovadores y entusi
 
 **Fecha** : Febrero 2022
 
-**Medios** (donde se tiene presencia): 
+**Medios** : 
 
 
 * Github: https://github.com/moih96/emotionFlights/blob/main/README.md
