@@ -8,8 +8,11 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Titulo** : Emotion Flights
 
-**Autor(es)** ______________
-
+**Autor(es)** 
+Moisés Heredia Molina
+Soraya Olimpia López Criado
+Francisco David Villacres Cuadrado
+Renato Flores Álvarez
 **Resumen** : _________
 
 **logotipo** :  ________
