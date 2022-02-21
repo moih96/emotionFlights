@@ -8,7 +8,9 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Titulo** : _______
 
-**Autor(es)** ______________
+**Autor(es)** 
+
+Moises Heredia Molina
 
 **Resumen** : _________
 
