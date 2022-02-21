@@ -32,9 +32,8 @@ Renato Flores Álvarez.
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
 * Twitter 
-* ... 
+* Instagram: https://instagram.com/emotion_flights?utm_medium=copy_link 
 
 
 
