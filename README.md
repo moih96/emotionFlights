@@ -30,18 +30,21 @@ Esta comunidad está formada por personas internacionales , innovadores y entusi
 
 **Slogan** : La única regla del viaje es: no vuelvas como te fuiste. Vuelve diferente
 
-**Hashtag**  #viajes #emociones #bienestar 
+**Hashtag** : #viajes #emociones #bienestar #comunidad #cultura #empatia #compartir 
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : Febrero 2022
 
-**Medios** : 
+**Redes sociales** : 
 
 
-* Github: https://github.com/moih96/emotionFlights/blob/main/README.md
-* Twitter: https://twitter.com/EmotionFlights
-* Instagram: https://instagram.com/emotion_flights?utm_medium=copy_link 
+* ![r6YemvF9_400x400](https://user-images.githubusercontent.com/100152126/155019838-2c0a6dc4-10e2-4588-a53d-3bbaffb51ee7.jpg)
+Github: https://github.com/moih96/emotionFlights/blob/main/README.md
+* ![Twitter-logo svg](https://user-images.githubusercontent.com/100152126/155019866-eb705a57-328a-4b1b-96cc-bbd3c335a9f9.png)
+Twitter: https://twitter.com/EmotionFlights
+* ![450_1000](https://user-images.githubusercontent.com/100152126/155019886-cdd1c56d-7c20-48f3-bd90-7276874a45c5.jpg)
+Instagram: https://instagram.com/emotion_flights?utm_medium=copy_link 
 
 ---
 ### ¿Quiénes somos?
@@ -59,7 +62,7 @@ Hacer posible las aspiraciones y sueños de conexión con culturas diversas de n
 ### Visión
 Emotion Flights proyecta su visión en ser una comunidad única que genera lazos a largo plazo, tanto culturales como sociales. Nos diferenciamos por nuestra transparencia y simplicidad, compromiso con nuestras comunidades culturales. Atraer, desarrollar y motivar constantemente a los equipos de excelencia apasionados por nuestra comunidad quienes quieren tener una experiencia única de cultura. Además nos centramos en ser valorados por nuestras conexiones culturales.
 
-### Acerca de Nosotros:
+### Acerca de Nosotros
 
 Si has llegado hasta aquí es por que ahora mismo necesitas un cambio de vida. Una experiencia y una salida de la zona de confort, ¿Estás cansado de vivir siempre la misma experiencia ?. Nosotros cumpliremos con tus altas expectativas de liberación de emociones al viajar, conectando con la cultura de los países para tu comodidad.
 Lo que empezó como una idea creada por un grupo de estudiantes, fue creciendo para adquirir una comunidad significativa.
@@ -133,8 +136,10 @@ Referencias y recursos:
 (...)
 
 ---
-### Financiación
-Una de las formas de financiarnos es realizar una campaña de Crowfunding. Para lograr una campaña de financiación colectiva exitosa es muy importante tener en cuenta una serie de conceptos y pasos. En Emotion Flights seguiremos los siguientes:
+### Colabora con nosotros
+Una de las formas de financiarnos es realizar una campaña de Crowfunding. Para lograr una campaña de financiación colectiva exitosa es muy importante tener en cuenta una serie de conceptos y pasos. 
+
+En Emotion Flights seguiremos los siguientes:
 En primer lugar, planificamos la campaña, donde consideraramos cada detalle de la misma. Los aspectos más relevantes a considerar son:
 
 -La cantidad de dinero mínimo que necesitas, en nuestro caso son 6.000 €
@@ -143,7 +148,7 @@ En primer lugar, planificamos la campaña, donde consideraramos cada detalle de 
 
 -La recompensa que se le proporcionará a los financiadores serán descuentos para canjearlos en los viajes que nosotros organizamos. 
 
--La duración tendrá una campaña de 1 meses.
+-La duración tendrá una campaña de 1 meses y dará comienzo el 25 de Febrero de 2022.
 
 Este paso quizás es el más importante, pues es la forma por la cual nos van a conocer nuestros futuros financiadores por lo tanto para que esto sea efectivo la información proporcionada debe ser algo preparado y muy bien premeditado anteriormente
 
@@ -157,6 +162,12 @@ Con respecto a la difusión de la campaña, se debe diseñar una estrategia de m
 
 Una vez se lanza la campaña es importante evaluar los resultados, para ver si se ha alcanzado el alcance y el resultado previsto. En caso de no hacerlo, identificar los errores y ver cómo solucionarlos es de vital relevancia.
 En conclusión, podemos decir que para lanzar una financiación colectiva exitosa se debe preparar todo minuciosamente.
+
+![1f600](https://user-images.githubusercontent.com/100152126/155019424-0ab1fb73-8044-4cb6-9023-8e707e0e9cbd.png)
+**¡Si Emotion Flights te parece innovador y estás interesad@, puedes ayudarnos mediante esta campaña!**
+![1f600](https://user-images.githubusercontent.com/100152126/155019311-19e7a8f1-fd81-4069-b238-ae61cc26c075.png)
+
+Enlace: https://www.kickstarter.com/?lang=es
 
 ---
 ### Preguntas frecuentes:
