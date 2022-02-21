@@ -37,7 +37,27 @@ Esta comunidad está formada por personas internacionales , innovadores y entusi
 * Twitter: https://twitter.com/EmotionFlights
 * Instagram: https://instagram.com/emotion_flights?utm_medium=copy_link 
 
+---
+### ¿Quiénes somos?
+Somos un grupo de 4 estudiantes del Máster en Gestión y Tecnologías de Procesos de Negocio, tras un Brainstorming realizado en clase, llegamos a la conclusión de que era necesario formar esta comunidad. Tenemos la suerte de compartir clase con personas de diversas nacionalidades y religiones, por ello sabemos de la riqueza que proporciona la conexión mental y física con otros países. Es así como nació esta idea que titulamos como "Emotion Flights".
 
+### Misión
+Hacer posible las aspiraciones y sueños de conexión con culturas diversas de nuestra comunidad acompañándolos en una vivencia de viaje intercultural que supere cualquier expectativa incorporando los beneficios del mundo emotion flights.
+* Intercambio Cultural.
+* Salida de la zona de Confort.
+* Experiencia Única.
+* Desarrollo Personal.
+* Conocimiento de otras culturas.
+* Inmersión e intercambio con otras nacionalidades.
+
+### Visión
+Emotion Flights proyecta su visión en ser una comunidad única que genera lazos a largo plazo, tanto culturales como sociales. Nos diferenciamos por nuestra transparencia y simplicidad, compromiso con nuestras comunidades culturales. Atraer, desarrollar y motivar constantemente a los equipos de excelencia apasionados por nuestra comunidad quienes quieren tener una experiencia única de cultura. Además nos centramos en ser valorados por nuestras conexiones culturales.
+
+### Acerca de Nosotros:
+
+Si has llegado hasta aquí es por que ahora mismo necesitas un cambio de vida. Una experiencia y una salida de la zona de confort, ¿Estás cansado de vivir siempre la misma experiencia ?. Nosotros cumpliremos con tus altas expectativas de liberación de emociones al viajar, conectando con la cultura de los países para tu comodidad.
+Lo que empezó como una idea creada por un grupo de estudiantes, fue creciendo para adquirir una comunidad significativa.
+¡Sumérgete en la cultura del lugar al que viajes!
 
 --- 
 
@@ -109,7 +129,19 @@ Referencias y recursos:
 
 
 
+---
+### Preguntas frecuentes:
+**¿Qué destinos nos recomendáis?**
 
+Todos los destinos al que decidas viajar te van a enriquecer culturalmente hablando. No podemos recomendar un sitio en concreto. Si tu preferencia es clara podemos asesorarte sobre ello. Los destinos más frecuentes son: Marruecos, India, Costa Rica, Colombia, Egipto, Perú, Costa Riza y Egipto. (Pero recuerda, podemos asesorarte para viajar en cualquier lugar) .
+
+**¿Con cuánta antelación hay que hacer la reserva?**
+
+Es recomendable reservar con una antelación mínima de 1-2 no obstante, todo depende del destino elegido, la distancia y la disponibilidad de los servicios a contratar. Debéis tener en cuenta que aunque contar con un margen de tiempo ya que cada detalle cuenta.
+
+**¿Cuándo hay que pagar?**
+
+Para contratar el viaje será necesario un anticipo que variará según el viaje que se contrate. Además, las experiencias adicionales pueden requerir algún tipo de señal. 
 
 ----
 
