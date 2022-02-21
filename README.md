@@ -132,8 +132,31 @@ Referencias y recursos:
 
 (...)
 
+---
+### Financiación
+Una de las formas de financiarnos es realizar una campaña de Crowfunding. Para lograr una campaña de financiación colectiva exitosa es muy importante tener en cuenta una serie de conceptos y pasos. En Emotion Flights seguiremos los siguientes:
+En primer lugar, planificamos la campaña, donde consideraramos cada detalle de la misma. Los aspectos más relevantes a considerar son:
 
+-La cantidad de dinero mínimo que necesitas, en nuestro caso son 6.000 €
 
+-Se elaborará contenido que detalle el proyecto en forma de videos e infografías.
+
+-La recompensa que se le proporcionará a los financiadores serán descuentos para canjearlos en los viajes que nosotros organizamos. 
+
+-La duración tendrá una campaña de 1 meses.
+
+Este paso quizás es el más importante, pues es la forma por la cual nos van a conocer nuestros futuros financiadores por lo tanto para que esto sea efectivo la información proporcionada debe ser algo preparado y muy bien premeditado anteriormente
+
+En segundo lugar, analizar nuestro público objetivo es uno de los pasos más importantes. Ya que conocer las características de esas personas (necesidades, formación, ambiciones, etc.…) nos ayudará a determinar mejor la planificación de la campaña. En nuestro caso tras los análisis que hemos realizado hemos detectado que nuestro público objetivo son personas residentes en España con edades comprendidas entre 20 y 45 años. 
+
+Otro aspecto fundamental para que la campaña tenga éxito es tener una comunidad de seguidores, esto hará que más gente te conozca y evidentemente participe en la campaña. Las redes sociales son una buena herramienta para realizarlo. Las redes sociales a usar por nuestra empresa son Instagram y Twitter ya que son las mas utilizadas por nuestro público objetivo.
+
+Por otro lado, elegir la plataforma correcta para la campaña, puede suponer el éxito o el fracaso de la misma. Se deben tener en cuenta todas las opciones. Por ejemplo, que comisiones son las que cobran, que pasa si no se alcanza la financiación planteada, entre otros. La plataforma que vamos a usar es Kickstarter.com, ya que consideramos que es la que mejores condiciones nos proporcionan. 
+
+Con respecto a la difusión de la campaña, se debe diseñar una estrategia de marketing adecuada. Dicha estrategia puede contener acciones como publicaciones en redes sociales, publicidad en buscadores o redes sociales, búsqueda de colaboradores, eventos solidarios, etc. En nuestro caso vamos a realizar publicidad en redes sociales de forma masiva. 
+
+Una vez se lanza la campaña es importante evaluar los resultados, para ver si se ha alcanzado el alcance y el resultado previsto. En caso de no hacerlo, identificar los errores y ver cómo solucionarlos es de vital relevancia.
+En conclusión, podemos decir que para lanzar una financiación colectiva exitosa se debe preparar todo minuciosamente.
 
 ---
 ### Preguntas frecuentes:
