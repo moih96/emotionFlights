@@ -6,11 +6,9 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Emotion Flights
 
-**Autor(es)** 
-
-Moises Heredia Molina
+**Autor(es)** ______________
 
 **Resumen** : _________
 
