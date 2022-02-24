@@ -176,7 +176,7 @@ Para contratar el viaje será necesario un anticipo que variará según el viaje
 
 **Referencias y recursos utilizados** :
 
-** Herramienta Canva ( https://www.canva.com/)
+* Herramienta Canva ( https://www.canva.com/)
 * Programa Justmind
 * Programa Gimp
 * Twitter (https://twitter.com/home)
