@@ -90,41 +90,34 @@ El público objetivo que hemos detectado tras realizar los estudios de mercado p
 
 ### Etapa 2: Prototipo y productos.
 
-* Imagen visual: a continuación se pueden observar varias pantallas de la interfaz de nuestra empresa. (Realizada con Justmind)
-![image](https://user-images.githubusercontent.com/100152126/155562431-ce540c1d-85ca-495f-b8f7-b67bf1372cee.png)
-![image](https://user-images.githubusercontent.com/100152126/155562819-0d59d4ea-e002-46c6-965b-40903161acdb.png)
-
+* Imagen visual: a continuación se pueden observar varias pantallas de la interfaz de nuestra empresa con algunas de las funcionalidades. (Realizada con Justmind)
+* 
+![1 BN](https://user-images.githubusercontent.com/100152126/155565123-52f1cb46-81fd-4041-bfa9-69e62012b3aa.jpg)
+![2 BN](https://user-images.githubusercontent.com/100152126/155563761-be15ef99-ae4b-49c7-bb98-45e22a72a3d5.JPG)
+![3 BN](https://user-images.githubusercontent.com/100152126/155563787-9f129312-bb12-4a70-8208-ea49286d1f9e.JPG)
 
 * Redes sociales: Instagram, Twitter, Youtube.
 * Publicidad: https://www.youtube.com/watch?v=Tser17nMbm4
 
 ### Etapa 3: Técnicas de evaluación utilizadas
-
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-* Test con usuarios (...) 
-* ... 
-
-
-
-
+Para ver el impacto en redes sociales, vamos a utilizar el programa Rapidminer, ya que nos va a arrojar resultados interesantes. Por ejemplo, si se habla bien o mal de la empresa.
 
 ### Conclusiones y trabajo futuro
 
-
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Problemas identificados: es necesario un gran desembolso inicial si queremos hacer publicidad en otros medios que no sean las tipicas redes sociales. 
+* Propuestas de mejora: se establece un foro para que los usuarios puedan aportar su opinión y propuestas de mejora.
 
 
 Referencias y recursos: 
 
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de mejora
+* Herramienta Canva ( https://www.canva.com/)
+* Programa Justmind
+* Programa Gimp
+* Twitter (https://twitter.com/home)
+* Instagram (https://www.instagram.com/)
+* Youtube (https://www.youtube.com/)
+* Trello (https://trello.com/espaciodetrabajodeuserasignatura24)
 
-(...)
 ---
 ### Nuestra promoción:
 ![poster](https://user-images.githubusercontent.com/100152126/155022744-9b027928-c2f8-4c07-8e3c-f3693fa38773.jpeg)
@@ -177,20 +170,24 @@ Es recomendable reservar con una antelación mínima de 1-2 no obstante, todo de
 
 Para contratar el viaje será necesario un anticipo que variará según el viaje que se contrate. Además, las experiencias adicionales pueden requerir algún tipo de señal. 
 
+**Puede usar nuestro Chatbot para preguntas frecuentes:** https://bot.dialogflow.com/f54647e4-97fe-4a86-9a17-707ab774c07d
+
 ----
 
 **Referencias y recursos utilizados** :
 
+** Herramienta Canva ( https://www.canva.com/)
+* Programa Justmind
+* Programa Gimp
+* Twitter (https://twitter.com/home)
+* Instagram (https://www.instagram.com/)
+* Youtube (https://www.youtube.com/)
+* Trello (https://trello.com/espaciodetrabajodeuserasignatura24)
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
 
 
 
