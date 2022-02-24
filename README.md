@@ -73,40 +73,30 @@ Lo que empezó como una idea creada por un grupo de estudiantes, fue creciendo p
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
-
 ### Etapa 1: Ideación de proyecto 
 
+El proyecto surgió a raiz de braidstorming realizado en clase, donde nos dimos cuenta que era necesario crear una comunidad para que la gente viaje y compartir idiomas y cultura. 
 Actividades realizadas mediante Trello https://trello.com/b/ZXWSWpHS/emotion-flights
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
-
-
 **Necesidad/oportunidad** 
+Necesidad de conocer nuevas culturas e idiomas.
+Oportunidad de hacerlo viajando.
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** 
+Hay muchas empresas que se dedican a organizar viajes pero sin embargo no se preocupan por la inmersión cultural de los clientes en el lugar al que viajen. 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**
+El público objetivo que hemos detectado tras realizar los estudios de mercado pertinentes son usuarios de una edad entre 20 y 45 años, que viajan de forma frecuente. 
+
+### Etapa 2: Prototipo y productos.
+
+* Imagen visual: a continuación se pueden observar varias pantallas de la interfaz de nuestra empresa. (Realizada con Justmind)
+![image](https://user-images.githubusercontent.com/100152126/155562431-ce540c1d-85ca-495f-b8f7-b67bf1372cee.png)
+![image](https://user-images.githubusercontent.com/100152126/155562819-0d59d4ea-e002-46c6-965b-40903161acdb.png)
 
 
-
-
-
-### Etapa 2: Prototipar / productos 
-
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
-
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
-
-* redes sociales (...) 
-
-* publicidad: banner (... ) 
-
-* ...
+* Redes sociales: Instagram, Twitter, Youtube.
+* Publicidad: https://www.youtube.com/watch?v=Tser17nMbm4
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
